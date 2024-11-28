@@ -1,0 +1,18 @@
+# Default ignored files
+#/shelf/
+#/workspace.xml
+# Rider ignored files
+#/contentModel.xml
+#/.idea.Zadanko2.iml
+#/modules.xml
+#/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+#httpRequests/
+# Datasource local storage ignored files
+#dataSources/
+#/dataSources.local.xml
+/ConsoleApp1.sln
+/.idea/
+/ConsoleApp1/ConsoleApp1.csproj
+/ConsoleApp1/bin/
+/ConsoleApp1/obj/
